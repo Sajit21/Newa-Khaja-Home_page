@@ -1,0 +1,98 @@
+*{
+    margin:10;
+    padding: 0;
+}
+.h4{
+height: 200px;
+width: 100%;
+padding:5px;
+}
+
+.image1{
+    height:180px ;
+   width: 100%;
+   padding:10px 10px;
+
+}
+h1{
+    text-align: center;
+font-family:'Times New Roman', Times, serif;
+font-style: italic;
+
+}
+.i1{
+    width:500px;
+    display: inline-block;
+
+}
+
+/* p{
+    display: inline-block;
+    width: 1300px;
+} */
+
+nav{
+   /* padding:5px;
+    font-size: 25px;*/
+     background-color: black;
+    width: 100%;
+
+}
+nav a{
+    display:inline-block;
+    padding: 20px;
+    font-size: 25px;
+    color:white;
+    text-decoration:none;
+}
+
+nav a:hover{
+    color: blueviolet;
+    background-color:  bisque;
+
+}
+/* img{
+ width:50%;
+ height: auto;
+}*/
+
+.o1{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    /* display: inline-block; */
+    display: inline-block;
+
+    
+    /* display: inline; */
+    width: 900px;
+
+    
+}
+
+.p3{
+    width:900px;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image4{
+   width: 500px;
+   height:250px;
+   
+}
+
+.image5{
+    width:500px;
+    height:280px;
+}
+.p1{
+    width:900px;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
